@@ -15,6 +15,8 @@
     </a>
 </p>
 
+Forked from the huggingface/diffusers for quick experimentation
+
 🤗 Diffusers provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves
 as a modular toolbox for inference and training of diffusion models.
 
